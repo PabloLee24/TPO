@@ -33,5 +33,4 @@ function enviavalida() {
 
 alert("Muchas gracias por su consulta.");
    	document.formvalida.submit();
-    window.location.href = "contacto.html";
 }
