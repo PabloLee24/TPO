@@ -33,5 +33,5 @@ function enviavalida() {
 
 alert("Muchas gracias por su consulta.");
    	document.formvalida.submit();
-       response.sendRedirect("http://www.google.com");
+    window.location.href = "contacto.html";
 }
